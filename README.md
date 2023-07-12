@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ms-ahsan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
                        - Instagram -> https://www.instagram.com/ahsan_aan/
                        - Email   -> msalimyahsan@gmail.com
